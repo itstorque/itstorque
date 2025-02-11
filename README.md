@@ -1,9 +1,9 @@
 ### 👋 Hi there!
 
 
-Hey there! I go by Torque /tɔɹk/ and I'm a researcher at MIT interested in hardware, superconducting electronics, computational photography and quantum computing. I enjoy reducing problems into math, designing devices and algorithms to be optimal and hacking functionality into existing software. Outside of my research, you can find me designing my own microcontroller, going on hikes or fangirling about julia.
+Hey there! I go by Torque /tɔɹk/ and I'm a researcher at Microsoft Quantum working on various theory and readout aspects of building a topological quantum computer and AI/ML methods that are involved in doing so. 
 
-I did my undergrad at MIT where I got to do research on diamond-based quantum computing, made simulators for superconducting devices and developed glasses that filter out epileptic triggers with a team of product designers. 
+In my free time, you can find me working on random things including: nueral network architectures and ML theory, hardware, symbolic programming, superconducting electronics, computational photography, computational geometry and probability theory. I enjoy reducing problems into math, designing things (physical or theoretic :)) to be optimal and hacking functionality into existing software. Check out my blog to get a glimpse of my projects [itstorque.com/blog](https://www.itstorque.com/blog).
 
 [Visit my website to get to know me a little better](https://tareqdandachi.github.io)
 
